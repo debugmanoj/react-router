@@ -19,7 +19,7 @@ let all=[
     course:"Data Science"
    },
    {
-    img:"https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner.png",
+    img:"https://www.hurix.com/wp-content/uploads/2022/01/Cyber-security.jpg",
     title:"Cybersecurity Vs Ethical Hacking: Top 10 Differences",
     course:"Cyber"
    },
@@ -34,7 +34,7 @@ let all=[
     course:"Cyber"
    },
    {
-    img:"https://www.guvi.in/blog/wp-content/uploads/2023/07/feature-image-UIUX-Designer-Roles-Responsibilities-Job-Description.jpg",
+    img:"https://img.freepik.com/free-vector/professional-career-elements-design_1200-212.jpg",
     title:"UI/UX Designer Job Description and Roles & Responsibilities",
     course:"career"
    },

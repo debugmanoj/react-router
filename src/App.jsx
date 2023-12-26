@@ -5,7 +5,7 @@ import All from './components/All'
 import Datascience from "./components/DataScience"
 import Cybersecurity from './components/Cybersecurity'
 import Career from './components/Career'
-import Fsd from './components/FSD'
+import Fsd from './components/Fsd'
 
 let all=[
   {
@@ -72,7 +72,7 @@ let all=[
   ]
 
 function App() {
-  return <BrowserRouter  future={{ v7_startTransition: true }}>
+  return <BrowserRouter  >
   <TopBar />
   <Routes>
 

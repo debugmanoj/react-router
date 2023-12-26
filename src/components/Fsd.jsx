@@ -1,6 +1,6 @@
 import React from 'react'
 import Items from './items';
-function FSD({datas}) {
+function Fsd({datas}) {
     const filteredData = datas.filter((e)=> e.course === "FSD");
     return  <div className="container mt-5">
           <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
@@ -11,4 +11,4 @@ function FSD({datas}) {
           </div>
 }
 
-export default FSD
+export default Fsd
